@@ -1,8 +1,6 @@
 # Hey, moi c'est David 👋
 
-Workplace Engineer avec 4 ans d'expérience, je gère et maintiens des environnements Microsoft, Citrix et Avaya au quotidien. Passionné par l'automatisation et le cloud, je me dirige progressivement vers une spécialisation **Azure / Cloud**.
-
-Ce GitHub, c'est mon espace d'apprentissage — des projets réels, des scripts utiles, et des expérimentations autour de l'IaC et de l'automatisation.
+Workplace Engineer avec 4 ans d'expérience, je gère et maintiens des environnements Microsoft, Citrix et Avaya au quotidien. Passionné par l'automatisation et le cloud, je me dirige progressivement vers une spécialisation **Azure / Cloud**
 
 ---
 
@@ -16,7 +14,6 @@ Ce GitHub, c'est mon espace d'apprentissage — des projets réels, des scripts 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Citrix](https://img.shields.io/badge/Citrix-006400?style=flat&logo=citrix&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
